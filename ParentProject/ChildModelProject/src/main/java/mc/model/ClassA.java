@@ -36,5 +36,5 @@ public class ClassA {
 	}
 
 
-	
+	//Ovo je veliko sranje!!!! Ali radi!!
 }
